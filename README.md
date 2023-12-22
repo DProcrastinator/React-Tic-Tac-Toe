@@ -15,7 +15,7 @@ Node.js and npm installed on your machine.
 Installation:
 Clone the repository to your local machine:
 
-```git clone https://github.com/yourusername/react-tic-tac-toe.git ```
+```https://github.com/DProcrastinator/React-Tic-Tac-Toe.git ```
 
 Navigate to the project directory:
 ```cd react-tic-tac-toe```

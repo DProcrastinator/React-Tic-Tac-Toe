@@ -28,3 +28,5 @@ Once the installation is complete, you can run the game using:
 
 This will start the development server, and the game will be accessible at http://localhost:3000 in your web browser.
 
+Preview:
+![image](https://github.com/DProcrastinator/React-Tic-Tac-Toe/assets/79912843/305ac95a-4641-433d-965a-6d0885726c63)
